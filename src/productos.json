@@ -1,0 +1,57 @@
+{
+    "1": {
+      "id": 1,
+      "title": "pan",
+      "description": "1kl pan flauta",
+      "price": 1200,
+      "thumbnail": "pan.png",
+      "stock": 5,
+      "code": "pan-abc",
+      "status": true,
+      "category": "Panaderia"
+    },
+    "2": {
+      "id": 2,
+      "title": "cereal",
+      "description": "cerealmix grande",
+      "price": 800,
+      "thumbnail": "cereal.png",
+      "stock": 10,
+      "code": "cereal-abc1",
+      "status": true,
+      "category": "Cereal"
+    },
+    "3": {
+      "id": 3,
+      "title": "fruta",
+      "description": "2kl de frutilla",
+      "price": 2600,
+      "thumbnail": "fruta.png",
+      "stock": 15,
+      "code": "fruta-abc2",
+      "status": true,
+      "category": "Fruta"
+    },
+    "4": {
+      "id": 4,
+      "title": "bebida",
+      "description": "pack de gaseosas",
+      "price": 850,
+      "thumbnail": "bebida.png",
+      "stock": 30,
+      "code": "bebida-abc3",
+      "status": true,
+      "category": "Gaseosa"
+    },
+    "5": {
+        "id": 5,
+        "title": "verdura",
+        "description": "brocoli de temporada",
+        "price": 550,
+        "thumbnail": "brocoli.png",
+        "stock": 5,
+        "code": "brocoli-abc4",
+        "status": true,
+        "category": "Verdura"
+      }
+  }
